@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>branefarts | My CV & Stuff</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Your Name</h1>
+    <p>Welcome to my personal site!</p>
+    <nav>
+      <a href="#cv">CV</a> |
+      <a href="#other">Other Stuff</a>
+    </nav>
+  </header>
+  <main>
+    <section id="cv">
+      <h2>My CV</h2>
+      <ul>
+        <li><strong>Education:</strong> [Your Education]</li>
+        <li><strong>Experience:</strong> [Your Experience]</li>
+        <li><strong>Skills:</strong> [Your Skills]</li>
+        <!-- Add more as needed -->
+      </ul>
+    </section>
+    <section id="other">
+      <h2>Random Other Stuff</h2>
+      <ul>
+        <li>I like cats.</li>
+        <li>I build cool things.</li>
+        <!-- Add more as you like -->
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 branefarts</p>
+  </footer>
+</body>
+</html>
